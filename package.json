@@ -88,7 +88,7 @@
     "clean-webpack-plugin": "^0.1.19",
     "codecov": "^3.1.0",
     "copy-webpack-plugin": "^4.5.1",
-    "cross-fetch": "^2.2.0",
+    "cross-fetch": "^3.1.5",
     "css-loader": "^2.1.1",
     "dot": "^1.1.2",
     "enzyme": "^3.6.0",
